@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244815792131",
+    "firebase_url": "https://toosmart-49a9d.firebaseio.com",
+    "project_id": "toosmart-49a9d",
+    "storage_bucket": "toosmart-49a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244815792131:android:63040d281ef8c57eb7a636",
+        "android_client_info": {
+          "package_name": "com.toosmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244815792131-l856mi3i6c8u4cefh5b3f8ao5o7miska.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkSm_vFDu_2Q8gkY74Tv_bxgbD8Qd61s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244815792131-l856mi3i6c8u4cefh5b3f8ao5o7miska.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
