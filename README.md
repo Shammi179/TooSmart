@@ -1,5 +1,5 @@
 # TooSmartApp
--- A note taking application developed using Java.
+A note taking application developed using Java.
 
 **Some Features of the application is given below.**
 
