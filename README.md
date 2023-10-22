@@ -7,27 +7,27 @@
 <p align="center">App View</p>
 <hr width="100%" color="black">
 
-![book](Images/reg-1.png)
+![book](img_readme/reg-1.png)
 <p align="center">Register</p>
 <hr width="100%" color="black">
 
-![book](Images/login.png)
+![book](img_readme/login.png)
 <p align="center">Login</p>
 <hr width="100%" color="black">
 
-![book](Images/header-1.png)
+![book](img_readme/header-1.png)
 <p align="center">Menu</p>
 <hr width="100%" color="black">
 
-![book](Images/ssnote1.png)
+![book](img_readme/ssnote1.png)
 <p align="center">Notes</p>
 <hr width="100%" color="black">
 
-![book](Images/reminder.png)
+![book](img_readme/reminder.png)
 <p align="center">Set Reminder</p>
 <hr width="100%" color="black">
 
-![book](Images/sssettings-11.png)
+![book](img_readme/sssettings-11.png)
 <p align="center">Settings</p>
 <hr width="100%" color="black">
 
