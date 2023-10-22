@@ -7,13 +7,10 @@
 <p align="center">App View</p>
 <hr width="100%" color="black">
 
-![book](img_readme/reg-1.png)
-<p align="center">Register</p>
+![book](img_readme/reg_log.png)
+<p align="center">Register and Login</p>
 <hr width="100%" color="black">
 
-![book](img_readme/login.png)
-<p align="center">Login</p>
-<hr width="100%" color="black">
 
 ![book](img_readme/header-1.png)
 <p align="center">Menu</p>
