@@ -3,7 +3,7 @@
 
 **Some Features of the application is given below.**
 
-![app](Images/download-1.png)
+![app](img_readme/download-1.png)
 <p align="center">App View</p>
 <hr width="100%" color="black">
 
